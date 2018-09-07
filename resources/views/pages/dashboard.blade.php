@@ -2,8 +2,6 @@
 @section('page')
 
 
-test
-
 
 
 
